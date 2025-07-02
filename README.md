@@ -1,7 +1,6 @@
 # rock-paper-scissors
 
 Rock paper scissors game
-
 This is a console only game made in javascript
 
 Guide:  1.The game is for 5 wins, whoever gets 5 wins first wins 
